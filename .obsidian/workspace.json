@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "081d6704216e4a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef33631219c1d3a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c225197454c01f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f113a8320422912",
+    "type": "split",
+    "children": [
+      {
+        "id": "e435363a1531ce2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926f1950fbf6cb5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1d03f762c2ceb57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1b5bedcf5126dc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51e2bb4125a4e11c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df4a6cb25aed910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09d23e060c2df5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85d40ed9bafcafc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c79b10fdea1cf6ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0328ceecb4605c51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "1c225197454c01f0",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "Familias Nobles/Stargazer.md",
+    "Mitos y leyendas/Mito del dragón.md",
+    "Mitos y leyendas/Dragones.md",
+    "Lugares/Políticos/Capital de la Orden Dracónida.md",
+    "Mitos y leyendas/Olesvernus.md",
+    "Lugares/Geograficos/Archipiélago del Dragón.md",
+    "Instituciones/Orden Dracónida.md",
+    "Instituciones",
+    "- media",
+    "- media/Pasted image 20240616231033.png",
+    "Lugares/Políticos",
+    "Lugares/Geograficos",
+    "Lugares",
+    "Familias Nobles",
+    "Mitos y leyendas/Leyenda de origen de la región.md",
+    "Mitos y leyendas.md",
+    "Mitos y leyendas",
+    "Welcome.md"
+  ]
+}
