@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef33631219c1d3a5",
+        "id": "d6423726cc66abbc",
         "type": "tabs",
         "children": [
           {
-            "id": "1c225197454c01f0",
+            "id": "13bb6ab4e80c4be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instituciones/Orden Dracónida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e87ed0c3e1656f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instituciones/Academia de la Orden Dracónida.md",
+                "file": "Magia/Energía Dracónida.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instituciones/Academia de la Orden Dracónida.md",
-                "collapseAll": false,
+                "file": "Magia/Energía Dracónida.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instituciones/Academia de la Orden Dracónida.md",
+                "file": "Magia/Energía Dracónida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instituciones/Academia de la Orden Dracónida.md"
+                "file": "Magia/Energía Dracónida.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,19 +147,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8e87ed0c3e1656f5",
+  "active": "13bb6ab4e80c4be4",
   "lastOpenFiles": [
+    "Magia/Energía de Olesvernus.md",
+    "Magia/Energía Dracónida.md",
+    "Cronología.md",
+    "Mitos y leyendas/Dragones.md",
+    "Mitos y leyendas/Mito del dragón.md",
+    "Mitos y leyendas/Olesvernus.md",
+    "Mitos y leyendas/Leyenda de origen de la región.md",
+    "Instituciones/Orden Dracónida.md",
     "Lugares/Políticos/Capital de la Orden Dracónida.md",
+    "Familias Nobles/Stargazer.md",
     "Instituciones/Academia de la Orden Dracónida.md",
     "Lugares/Geograficos/Archipiélago del Dragón.md",
-    "Instituciones/Orden Dracónida.md",
-    "Mitos y leyendas/Olesvernus.md",
     "README.md",
-    "Familias Nobles/Stargazer.md",
     "Magia",
     "Sin título.canvas",
-    "Mitos y leyendas/Mito del dragón.md",
-    "Mitos y leyendas/Dragones.md",
     "Instituciones",
     "- media",
     "- media/Pasted image 20240616231033.png",
@@ -178,7 +171,6 @@
     "Lugares/Geograficos",
     "Lugares",
     "Familias Nobles",
-    "Mitos y leyendas/Leyenda de origen de la región.md",
     "Mitos y leyendas.md",
     "Mitos y leyendas",
     "Welcome.md"
