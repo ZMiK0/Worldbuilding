@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Instituciones/Academia de la Orden Dracónida.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Instituciones/Academia de la Orden Dracónida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Instituciones/Academia de la Orden Dracónida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Instituciones/Academia de la Orden Dracónida.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,17 +160,17 @@
   },
   "active": "8e87ed0c3e1656f5",
   "lastOpenFiles": [
+    "Lugares/Políticos/Capital de la Orden Dracónida.md",
     "Instituciones/Academia de la Orden Dracónida.md",
+    "Lugares/Geograficos/Archipiélago del Dragón.md",
     "Instituciones/Orden Dracónida.md",
+    "Mitos y leyendas/Olesvernus.md",
+    "README.md",
     "Familias Nobles/Stargazer.md",
     "Magia",
-    "Lugares/Geograficos/Archipiélago del Dragón.md",
-    "README.md",
     "Sin título.canvas",
     "Mitos y leyendas/Mito del dragón.md",
     "Mitos y leyendas/Dragones.md",
-    "Lugares/Políticos/Capital de la Orden Dracónida.md",
-    "Mitos y leyendas/Olesvernus.md",
     "Instituciones",
     "- media",
     "- media/Pasted image 20240616231033.png",

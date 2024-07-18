@@ -8,3 +8,4 @@ A diferencia del Culto al Dragón Originario, todos los dragones son sagrados, y
 Relacionado:
 [[Capital de la Orden Dracónida]]
 [[Olesvernus]]
+[[Academia de la Orden Dracónida]]
