@@ -1,4 +1,4 @@
-Situado al este del continente, esta compuesto por una isla central grande la cual aloja la Capital de la Orden Dracónida y 3 pequeñas islas alrededor con forma de dragón.
+Situado al sur-este del continente, esta compuesto por una isla central grande la cual aloja la Capital de la Orden Dracónida y 3 pequeñas islas alrededor con forma de dragón.
 
 La isla central esta elevada 200 metros sobre el nivel del mar
 

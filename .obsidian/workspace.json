@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13bb6ab4e80c4be4",
+            "id": "42f08f49f2a56774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magia/Energía Dracónida.md",
+                "file": "Sur/Lugares/Políticos/Capital de la Orden Dracónida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cdb2fa643705b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaña de Rol/Objetivo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d7497bfbc6016b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sur/Lugares/Geograficos/Archipiélago del Dragón.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magia/Energía Dracónida.md",
+                "file": "Campaña de Rol/Objetivo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magia/Energía Dracónida.md",
+                "file": "Campaña de Rol/Objetivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magia/Energía Dracónida.md"
+                "file": "Campaña de Rol/Objetivo.md"
               }
             }
           }
@@ -147,32 +172,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "13bb6ab4e80c4be4",
+  "active": "9cdb2fa643705b8c",
   "lastOpenFiles": [
+    "Norte/Lugares/Políticos/Capital del Culto al Dragón Originario.md",
+    "Mitos y leyendas/Mito del dragón.md",
+    "Mitos y leyendas/Leyenda de origen de la región.md",
+    "Campaña de Rol/Objetivo.md",
+    "Familias Nobles/Stargazer.md",
+    "Mitos y leyendas/Dragones.md",
+    "Mitos y leyendas/Olesvernus.md",
+    "Campaña de Rol/Ficha de personaje SUR.md",
+    "Sur/Lugares/Políticos/Capital de la Orden Dracónida.md",
+    "Norte/Lugares/Geográficos/Región de las Islas flotantes.md",
+    "Sur/Lugares/Geograficos/Archipiélago del Dragón.md",
+    "Sur/Instituciones/Academia de la Orden Dracónida.md",
+    "Norte/Instituciones",
+    "Norte/Lugares/Geográficos",
+    "Norte/Lugares/Políticos",
+    "Norte/Lugares",
+    "Sur",
+    "Norte",
     "Magia/Energía de Olesvernus.md",
+    "Campaña de Rol",
     "Magia/Energía Dracónida.md",
     "Cronología.md",
-    "Mitos y leyendas/Dragones.md",
-    "Mitos y leyendas/Mito del dragón.md",
-    "Mitos y leyendas/Olesvernus.md",
-    "Mitos y leyendas/Leyenda de origen de la región.md",
-    "Instituciones/Orden Dracónida.md",
-    "Lugares/Políticos/Capital de la Orden Dracónida.md",
-    "Familias Nobles/Stargazer.md",
-    "Instituciones/Academia de la Orden Dracónida.md",
-    "Lugares/Geograficos/Archipiélago del Dragón.md",
+    "Sur/Instituciones/Orden Dracónida.md",
     "README.md",
     "Magia",
     "Sin título.canvas",
-    "Instituciones",
+    "Sur/Instituciones",
     "- media",
     "- media/Pasted image 20240616231033.png",
-    "Lugares/Políticos",
-    "Lugares/Geograficos",
-    "Lugares",
-    "Familias Nobles",
     "Mitos y leyendas.md",
-    "Mitos y leyendas",
     "Welcome.md"
   ]
 }

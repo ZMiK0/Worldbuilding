@@ -23,5 +23,3 @@ Esta energía puede dañar el cuerpo, pero las propiedades de los objetos mágic
 
 El cuerpo es mucho más fácil de proteger que el alma.
 
-
-
